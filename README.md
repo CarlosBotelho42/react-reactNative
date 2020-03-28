@@ -8,5 +8,9 @@ OS usuarios vão ver esses casos em um aplicativo mobile(andoid/ios) e consoguir
 ### Primiera tela criada (Tela de logon)
 
  ![](imgProg/pagLogon.PNG)
+ 
+ ### Segunda tela criada (Tela de Registro)
+ 
+  ![](imgProg/pagRegister.PNG)
 
 
