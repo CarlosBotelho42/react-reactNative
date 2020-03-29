@@ -16,4 +16,8 @@ OS usuarios vão ver esses casos em um aplicativo mobile(andoid/ios) e consoguir
  ### Terceira tela criada (Tela cadastro de casos)
  
    ![](imgProg/pagProfile.PNG)
+   
+ ### Ultima tela criada (Tela cadastro de incidentes)
+ 
+    ![](imgProg/pagNewIncidents.PNG)
 
